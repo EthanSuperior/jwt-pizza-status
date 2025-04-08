@@ -1,7 +1,7 @@
-url: https://pizza-factory.cs329.click
-status: down
-code: 404
-responseTime: 263
-lastUpdated: 2025-04-08T18:12:02.998Z
+url: https://pizza-factory.cs329.click/api/docs
+status: up
+code: 200
+responseTime: 274
+lastUpdated: 2025-04-08T18:29:29.062Z
 startTime: 2025-04-08T18:06:41.724Z
 generator: Upptime <https://github.com/upptime/upptime>
