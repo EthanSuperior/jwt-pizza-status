@@ -15,9 +15,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://pizza-status.evankchase.click/
+  cname: pizza-status.evankchase.click
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/devops329/jwt-pizza/main/public/jwt-pizza-logo.png
   name: JWT Pizza Status
   introTitle: "**JWT Pizza** is a pizza buying service made by the BYU CS329 team."
   introMessage: This is a simple satus page displaying the up time of the JWT-Pizza service, made using [upptime](https://github.com/upptime/upptime).
