@@ -10,15 +10,17 @@ sites:
   - name: JWT-Pizza-Service
     url: https://pizza-service.evankchase.click/
   - name: JWT-Pizza-Factory
-    url: https://pizza-factory.cs329.click
+    url: https://pizza-factory.cs329.click/api/docs
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: pizza-status.evankchase.click
   # baseUrl: /your-repo-name
+  favicon: https://raw.githubusercontent.com/devops329/jwt-pizza/main/public/jwt-pizza-icon.png
   logoUrl: https://raw.githubusercontent.com/devops329/jwt-pizza/main/public/jwt-pizza-logo.png
   name: JWT Pizza Status
+  theme: light
   introTitle: "**JWT Pizza** is a pizza buying service made by the BYU CS329 team."
   introMessage: This is a simple satus page displaying the up time of the JWT-Pizza service, made using [upptime](https://github.com/upptime/upptime).
   navbar:
