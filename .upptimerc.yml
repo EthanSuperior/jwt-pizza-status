@@ -5,20 +5,15 @@ repo: jwt-pizza-status # The name of this repository
 sites:
   - name: JWT-Pizza
     url: https://pizza.evankchase.click/
-  - name: JWT-Pizza (DEV)
-    url: https://stage-pizza.evankchase.click/
+  # - name: JWT-Pizza (DEV)
+  #   url: https://stage-pizza.evankchase.click/
   - name: JWT-Pizza Service
     url: https://pizza-service.evankchase.click/
   - name: JWT-Pizza Factory
-    url: https://pizza-factory.cs329.click/
-    expectedStatusCodes:
-      - 404
+    url: https://pizza-factory.cs329.click/api/docs
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: pizza-status.evankchase.click
-  # baseUrl: /your-repo-name
   favicon: https://raw.githubusercontent.com/devops329/jwt-pizza/main/public/jwt-pizza-icon.png
   logoUrl: https://raw.githubusercontent.com/devops329/jwt-pizza/main/public/jwt-pizza-logo.png
   name: JWT Pizza Status
@@ -28,8 +23,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: DevOpsRepo
-      href: https://github.com/devops329/devops
+    # - title: Class Repo
+    #   href: https://github.com/devops329/devops
     - title: Website
       href: https://github.com/$OWNER/jwt-pizza
     - title: Service
