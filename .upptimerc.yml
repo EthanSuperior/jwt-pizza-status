@@ -10,7 +10,7 @@ sites:
   - name: JWT-Pizza Service
     url: https://pizza-service.evankchase.click/
   - name: JWT-Pizza Factory
-    url: https://pizza-factory.cs329.click/api/docs
+    url: https://pizza-factory.cs329.click/
     expectedStatusCodes:
       - 404
 
