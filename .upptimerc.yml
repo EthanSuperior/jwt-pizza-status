@@ -20,7 +20,7 @@ status-website:
   favicon: https://raw.githubusercontent.com/devops329/jwt-pizza/main/public/jwt-pizza-icon.png
   logoUrl: https://raw.githubusercontent.com/devops329/jwt-pizza/main/public/jwt-pizza-logo.png
   name: JWT Pizza Status
-  theme: light
+  theme: ocean
   introTitle: "**JWT Pizza** is a pizza buying service made by the BYU CS329 team."
   introMessage: This is a simple satus page displaying the up time of the JWT-Pizza service, made using [upptime](https://github.com/upptime/upptime).
   navbar:
