@@ -4,7 +4,7 @@
     "url": "https://pizza.evankchase.click/",
     "icon": "https://icons.duckduckgo.com/ip3/pizza.evankchase.click.ico",
     "slug": "jwt-pizza",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,10 +12,12 @@
     "uptimeYear": "100.00%",
     "time": 162,
     "timeDay": 197,
-    "timeWeek": 167,
+    "timeWeek": 179,
     "timeMonth": 162,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-15": 0
+    }
   },
   {
     "name": "JWT-Pizza Service",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pizza-service.evankchase.click.ico",
     "slug": "jwt-pizza-service",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.74%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 258,
     "timeDay": 225,
-    "timeWeek": 258,
+    "timeWeek": 245,
     "timeMonth": 258,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2025-04-15": 0
+      "2025-04-15": 26
     }
   },
   {
@@ -45,12 +47,12 @@
     "status": "up",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
     "time": 175,
     "timeDay": 86,
-    "timeWeek": 175,
+    "timeWeek": 162,
     "timeMonth": 175,
     "timeYear": 175,
     "dailyMinutesDown": {
